@@ -18,4 +18,4 @@ Turn your TV on and off by clapping or by setting a timer.
 
 # Circuit
 ![](schematics/Circuit.png)
-**[Schematics PDF](https://link-url-here.org)**
+**[Schematics PDF](Schematics.pdf)**
