@@ -69,6 +69,7 @@ void loop()
       digitalWrite(buzzer, LOW);
       mySender.send(switchTV, RAW_DATA_LEN, 36);
       state = !state;
+      digitalWrite(LED, state);
       Serial.print(state + 2);
       Serial.print(",");
       break;
