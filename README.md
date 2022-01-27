@@ -16,7 +16,8 @@ Turn your TV on and off by clapping or by setting a timer.
 |S1         |1       | Pushbutton                |
 |R4         |1       |10 kΩ Resistor             |
 
+
+**[Schematics PDF](schematics/Schematics.pdf)**
 # Circuit
 ![](schematics/Circuit.png)
 
-**[Schematics PDF](schematics/Schematics.pdf)**
