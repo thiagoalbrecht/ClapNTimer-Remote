@@ -6,6 +6,12 @@ Serial.print() codes for Processing:
 3 - Timer TV on
 4 - Button pressed, listening off
 5 - Button pressed, listening on
+ 
+We’re using the IRLib2 library (https://github.com/cyborg5/IRLib2). 
+To get the codes for your remote, upload the sketch in examples/rawRecv/.
+Press the power button of your remote pointing it to the IR receiver, and
+copy the code from the serial monitor and paste it below the “Output from rawRecv.ino here” comment (also rename the array to switchTV).
+ 
 */
 
 #include <IRLibSendBase.h>
